@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AstaZero V2X MQTT</string>
+    <string name="label_latitude">Latitude:</string>
+    <string name="btn_start_broadcasting_location">Start Broadcasting Location</string>
+    <string name="label_longitude">Longitude:</string>
+
+    <string name="permission_rational_dialog_title">Activity Recognition Permission Needed</string>
+    <string name="permission_rational_dialog_message">To get information about your activity, you need to give Activity Recognition permission to Pet Buddy.</string>
+    <string name="permission_rational_dialog_positive_button_text">Request a permission</string>
+    <string name="permission_rational_dialog_negative_button_text">No thanks</string>
+
+    <string name="settings_dialog_title">Activity Recognition Permission Needed</string>
+    <string name="settings_dialog_message">Give permission manually inside the app\'s
+    settings</string>
+    <string name="settings_dialog_positive_button_text">Go to settings</string>
+    <string name="settings_dialog_negative_button_text">No thanks</string>
+
+    <string name="transition_update_request_success">Transition updates requested</string>
+    <string name="transition_update_request_failed">Requesting transition updates failed</string>
+    <string name="transition_update_remove_success">Transition updates removed</string>
+    <string name="transition_update_remove_failed">Removing transition updates failed</string>
+
+    <string name="activity_update_request_success">Activity updates requested</string>
+    <string name="activity_update_request_failed">Requesting activity updates failed</string>
+    <string name="activity_update_remove_success">Activity updates removed</string>
+    <string name="activity_update_remove_failed">Removing activity updates failed</string>
+
+    <string name="start_tracking">Start</string>
+    <string name="stop_tracking">Stop</string>
+    <string name="reset_tracking">Reset</string>
+    <string name="time_to_start">Initializing...</string>
+
+    <string name="still">Still</string>
+    <string name="walking">Walking</string>
+    <string name="running">Running</string>
+
+    <string name="still_text">Stationary</string>
+    <string name="walking_text">Walking</string>
+    <string name="running_text">Running</string>
+    <string name="cycling_text">Cycling</string>
+    <string name="automotive_text">Automotive</string>
+    <string name="initializing_text">Initializing...</string>
+
+</resources>
